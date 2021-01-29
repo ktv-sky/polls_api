@@ -17,6 +17,5 @@
 7. API Docs http://127.0.0.1:8000/api/docs/
 
 ### Screenshots
-![img1]()
-![img2]()
-![img3]()
+![img1](https://i.imgur.com/LIfFeSl.png)
+![img2](https://i.imgur.com/O8q8J2e.png)
