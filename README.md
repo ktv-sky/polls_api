@@ -12,9 +12,9 @@
     python3 manage.py runserver
     ```
 4. Open admin site http://127.0.0.1:8000/admin/ and create a few test objects of each type
-5. Open http://127.0.0.1:8000/api/polls/
-6. API Schema http://127.0.0.1:8000/api/swagger-docs/
-7. API Docs http://127.0.0.1:8000/api/docs/
+5. Open http://127.0.0.1:8000/polls/
+6. API Schema http://127.0.0.1:8000/swagger-docs/
+7. API Docs http://127.0.0.1:8000/docs/
 
 ### Screenshots
 ![img1](https://i.imgur.com/LIfFeSl.png)
